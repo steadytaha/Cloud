@@ -17,3 +17,5 @@ tiktoken
 protobuf==3.20.*
 python-magic
 cmake
+opencv-python
+libgl1-mesa-glx
