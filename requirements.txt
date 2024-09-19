@@ -1,5 +1,7 @@
 gcsfs
 st-files-connection
+google-cloud-aiplatform
+google-cloud-logging
 python-dotenv
 langchain
 langchain-community
@@ -14,5 +16,4 @@ chromadb
 tiktoken
 protobuf==3.20.*
 python-magic
-python-magic-bin
 cmake
